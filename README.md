@@ -1,4 +1,4 @@
-<h1>HCIP 2024 Image Captioning Project</h1>
+<h1>HCIP 2025 Image Captioning Project</h1>
 
 <p>
   This repository contains our <strong>HCIP 2024</strong> deep learning project for
