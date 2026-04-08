@@ -1,7 +1,7 @@
 <h1>HCIP 2025 Image Captioning Project</h1>
 
 <p>
-  This repository contains our <strong>HCIP 2024</strong> deep learning project for
+  This repository contains our <strong>HCIP 2025</strong> deep learning project for
   <strong>automatic image caption generation</strong> using the <strong>Flickr8k</strong> dataset.
 </p>
 
@@ -79,7 +79,7 @@ hcip-2024-image-captioning/
 
 <h2>Academic Context</h2>
 <p>
-  This project was developed as part of <strong>HCIP 2024</strong> and was presented
+  This project was developed as part of <strong>HCIP 2025</strong> and was presented
   under the <strong>Huawei HCIP AI FCAI program</strong> context.
 </p>
 
